@@ -146,6 +146,7 @@ ul a {
 .action {
     font-size: 20px;
     font-weight: 800;
+    margin-right: 10px;
 }
 
 .fourth a {
@@ -166,4 +167,8 @@ ul a {
     justify-content: center;
     align-items: center;
     padding: 40px 0;
+}
+
+.signup {
+    margin-right: 10px;
 }
